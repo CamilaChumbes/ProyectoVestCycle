@@ -1,0 +1,17 @@
+{
+    "name": "camil/shopping",
+    "description": "Marketplace de compra y venta de ropa de segunda mano",
+    "authors": [
+        {
+            "name": "Camila Chumbes",
+            "email": "86451075+CamilaChumbes@users.noreply.github.com"
+        }
+    ],
+    "license": "proprietary",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "scripts": {
+        "test": "phpunit --bootstrap vendor/autoload.php tests"
+    }
+}

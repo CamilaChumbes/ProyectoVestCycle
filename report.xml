@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="C:\xampp\htdocs\shopping\tests" tests="2" assertions="6" errors="0" warnings="0" failures="0" skipped="0" time="0.038173">
+    <testsuite name="CategoryManagerTest" file="C:\xampp\htdocs\shopping\tests\CategoryManagerTest.php" tests="2" assertions="6" errors="0" warnings="0" failures="0" skipped="0" time="0.038173">
+      <testcase name="testCreateCategory" class="CategoryManagerTest" classname="CategoryManagerTest" file="C:\xampp\htdocs\shopping\tests\CategoryManagerTest.php" line="25" assertions="4" time="0.012178">
+        <system-out>Datos insertados:
+Array
+(
+    [id] =&gt; 0
+    [categoryName] =&gt; Test Category
+    [categoryDescription] =&gt; This is a test description.
+    [creationDate] =&gt; 2024-11-14 17:55:38
+    [updationDate] =&gt; 
+)
+</system-out>
+      </testcase>
+      <testcase name="testDeleteCategory" class="CategoryManagerTest" classname="CategoryManagerTest" file="C:\xampp\htdocs\shopping\tests\CategoryManagerTest.php" line="47" assertions="2" time="0.025995">
+        <system-out>La categoría con ID 0 fue eliminada.
+</system-out>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testsuites>
