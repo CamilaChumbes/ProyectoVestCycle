@@ -1,4 +1,0 @@
-Para correr el proyecto de vestcycle se debe tener visual studio code, xampp y php instalados.
-Para entrar al usuario del vendedor y adminsitrador usar estos datos:
-Usuario: admin
-Contraseña : Test@123
